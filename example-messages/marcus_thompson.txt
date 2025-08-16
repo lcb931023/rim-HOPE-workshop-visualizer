@@ -1,0 +1,152 @@
+Conversation: Marcus Thompson (+4445556666)
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2023-04-20T18:39:33.895046Z
+Hey, just wondering if you've finished that report yet? It was due yesterday...
+
+From: You
+Type: outgoing
+Sent: 2024-12-13T15:22:36.610860Z
+I'm still working on it. Had some other priorities to handle first
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2025-07-18T11:53:10.193028Z
+Interesting how your 'priorities' never seem to align with team deadlines 🙄
+
+From: You
+Type: outgoing
+Sent: 2024-03-14T17:17:15.394119Z
+I don't appreciate the tone, Marcus. I'm managing multiple projects right now
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2023-09-24T23:36:17.266058Z
+Well, maybe if you spent less time 'managing' and more time doing, we wouldn't be having this conversation
+
+From: You
+Type: outgoing
+Sent: 2024-04-26T08:45:57.202404Z
+k
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2023-03-05T13:29:26.169953Z
+When can I expect the report? The client is asking
+
+From: You
+Type: outgoing
+Sent: 2023-11-29T20:35:00.555383Z
+End of day
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2023-11-09T12:37:22.074410Z
+That's what you said yesterday. Should I just do it myself since you're clearly too busy?
+
+From: You
+Type: outgoing
+Sent: 2022-12-07T05:45:52.826787Z
+No, I've got it handled. You can stop micromanaging now
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2022-04-02T05:21:09.988565Z
+Just trying to ensure quality work gets delivered on time. Something you might want to try sometime
+
+From: You
+Type: outgoing
+Sent: 2022-06-21T12:13:24.948147Z
+Thanks for the career advice 👍
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2024-11-17T10:37:41.159965Z
+Look, we need to talk about your commitment to deadlines. This is becoming a pattern
+
+From: You
+Type: outgoing
+Sent: 2023-07-26T09:12:18.383361Z
+Maybe we should discuss this with HR present
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2023-04-18T19:48:20.659070Z
+Oh, now you want to involve HR? Classic deflection
+
+From: You
+Type: outgoing
+Sent: 2022-07-23T02:33:39.661746Z
+Just finished the report. Sending it now
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2025-05-19T17:19:47.871610Z
+Finally. I'll review it, though I'm sure I'll find plenty of issues given the rush job
+
+From: You
+Type: outgoing
+Sent: 2024-03-19T19:12:21.568360Z
+Looking forward to your always constructive feedback
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2024-08-30T01:04:44.987566Z
+Did you even proofread this? There are typos in the executive summary
+
+From: You
+Type: outgoing
+Sent: 2023-06-06T00:40:05.479499Z
+I'll fix them
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2024-03-17T12:08:54.914422Z
+While you're at it, the entire third section needs to be redone. This is nowhere near our usual standards
+
+From: You
+Type: outgoing
+Sent: 2024-09-08T01:09:51.215259Z
+Your standards or the client's standards?
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2022-03-21T06:19:04.569411Z
+Is there a difference? We should always strive for excellence, or don't you agree?
+
+From: You
+Type: outgoing
+Sent: 2023-01-08T04:34:38.767219Z
+Updated version sent
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2023-02-11T22:21:53.832324Z
+Better. Next time try to get it right the first time? Some of us have better things to do than double-check your work
+
+From: You
+Type: outgoing
+Sent: 2022-10-27T10:19:44.402012Z
+Noted
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2022-05-30T05:33:50.932306Z
+Team meeting tomorrow at 9. Try to be on time for once
+
+From: You
+Type: outgoing
+Sent: 2023-01-23T01:42:30.820591Z
+I'm always on time for meetings, Marcus
+
+From: Marcus Thompson
+Type: incoming
+Sent: 2024-02-03T12:42:30.237883Z
+If you say so. Don't forget to prepare your project updates
+
+From: You
+Type: outgoing
+Sent: 2022-05-21T15:57:22.021683Z
+Already done. Anything else?
+

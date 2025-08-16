@@ -1,0 +1,462 @@
+Conversation: 李明 (+8613800138000)
+
+From: You
+Type: outgoing
+Sent: 2024-01-02T11:17:00.000000Z
+Hey Li Ming! How was your weekend?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-02T11:34:42.000000Z
+Pretty good! Went hiking with some friends on Saturday
+
+From: You
+Type: outgoing
+Sent: 2024-01-02T11:36:57.000000Z
+Nice! Which trail did you go to?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-02T11:52:04.000000Z
+We went to Eagle Creek. The weather was perfect!
+
+From: You
+Type: outgoing
+Sent: 2024-01-02T11:57:13.000000Z
+I've been meaning to check that one out. Was it crowded?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-02T12:15:03.000000Z
+Not too bad actually. We went early in the morning
+
+From: You
+Type: outgoing
+Sent: 2024-01-02T12:17:08.000000Z
+Smart thinking! Hey, are you free for dinner this week?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-02T12:20:08.000000Z
+Yes! When were you thinking?
+
+From: You
+Type: outgoing
+Sent: 2024-01-04T08:25:00.000000Z
+Maybe Wednesday? That new 火锅 place opened downtown
+
+From: 李明
+Type: incoming
+Sent: 2024-01-04T08:27:52.000000Z
+Oh yes! I heard it's really good. Wednesday works 👍
+
+From: You
+Type: outgoing
+Sent: 2024-01-04T08:31:44.000000Z
+Perfect! Should we meet there around 6?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-04T08:32:30.000000Z
+Sounds good! 我很期待
+
+From: You
+Type: outgoing
+Sent: 2024-01-04T08:34:34.000000Z
+Me too! Haven't had good hotpot in ages
+
+From: 李明
+Type: incoming
+Sent: 2024-01-04T08:37:16.000000Z
+Same! Did you watch the new 电影 I recommended?
+
+From: You
+Type: outgoing
+Sent: 2024-01-04T08:55:42.000000Z
+Not yet! Been super busy with work 好累
+
+From: 李明
+Type: incoming
+Sent: 2024-01-04T09:10:13.000000Z
+No worries! It's really good when you have time
+
+From: You
+Type: outgoing
+Sent: 2024-01-22T18:58:00.000000Z
+I'll try to watch it this weekend. How's your new job going?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-22T19:14:55.000000Z
+Going well! 同事们都很友好. Still getting used to everything
+
+From: You
+Type: outgoing
+Sent: 2024-01-22T19:23:17.000000Z
+That's great! First few weeks are always challenging
+
+From: 李明
+Type: incoming
+Sent: 2024-01-22T19:40:50.000000Z
+是啊! But I'm learning a lot
+
+From: You
+Type: outgoing
+Sent: 2024-01-22T19:45:45.000000Z
+Did you finish setting up your new apartment?
+
+From: 李明
+Type: incoming
+Sent: 2024-01-22T19:58:10.000000Z
+Almost! Still need to buy some furniture 还需要买些东西
+
+From: You
+Type: outgoing
+Sent: 2024-01-22T20:03:05.000000Z
+Need any help? I'm free this weekend
+
+From: 李明
+Type: incoming
+Sent: 2024-01-22T20:06:14.000000Z
+That would be amazing! 谢谢你
+
+From: You
+Type: outgoing
+Sent: 2024-03-21T19:15:00.000000Z
+No problem! What time works best?
+
+From: 李明
+Type: incoming
+Sent: 2024-03-21T19:16:55.000000Z
+Saturday afternoon? Maybe around 2?
+
+From: You
+Type: outgoing
+Sent: 2024-03-21T19:19:04.000000Z
+Works for me! Want to check out IKEA?
+
+From: 李明
+Type: incoming
+Sent: 2024-03-21T19:35:18.000000Z
+好啊! I need a new desk and some shelves
+
+From: You
+Type: outgoing
+Sent: 2024-03-21T19:39:27.000000Z
+Cool, I can drive if you want
+
+From: 李明
+Type: incoming
+Sent: 2024-03-21T19:44:27.000000Z
+Perfect! 你真是好朋友
+
+From: You
+Type: outgoing
+Sent: 2024-03-21T19:58:47.000000Z
+BTW did you see the news about the new subway line?
+
+From: 李明
+Type: incoming
+Sent: 2024-03-21T20:07:50.000000Z
+是的! It'll make commuting so much easier
+
+From: You
+Type: outgoing
+Sent: 2024-03-31T18:08:00.000000Z
+Yeah finally! 交通会方便很多
+
+From: 李明
+Type: incoming
+Sent: 2024-03-31T18:25:37.000000Z
+对啊! No more bus transfers
+
+From: You
+Type: outgoing
+Sent: 2024-03-31T18:43:22.000000Z
+Oh, almost forgot - can you send me that recipe you mentioned?
+
+From: 李明
+Type: incoming
+Sent: 2024-03-31T18:47:04.000000Z
+The 红烧肉 one? Sure, I'll send it now
+
+From: You
+Type: outgoing
+Sent: 2024-03-31T19:06:53.000000Z
+Yes that one! Thanks 谢谢
+
+From: 李明
+Type: incoming
+Sent: 2024-03-31T19:20:45.000000Z
+No problem! It's really easy to make 很简单
+
+From: You
+Type: outgoing
+Sent: 2024-03-31T19:33:03.000000Z
+Looking forward to trying it
+
+From: 李明
+Type: incoming
+Sent: 2024-03-31T19:43:37.000000Z
+Let me know how it turns out! 记得给我看照片
+
+From: You
+Type: outgoing
+Sent: 2024-04-02T08:53:00.000000Z
+Will do! 一定会的
+
+From: 李明
+Type: incoming
+Sent: 2024-04-02T08:55:15.000000Z
+Did you hear about the new bubble tea place?
+
+From: You
+Type: outgoing
+Sent: 2024-04-02T08:59:01.000000Z
+No! Where is it? 在哪儿？
+
+From: 李明
+Type: incoming
+Sent: 2024-04-02T08:59:32.000000Z
+Near the library! Want to check it out after IKEA?
+
+From: You
+Type: outgoing
+Sent: 2024-04-02T09:19:16.000000Z
+Sounds good! 我最近好想喝奶茶
+
+From: 李明
+Type: incoming
+Sent: 2024-04-02T09:35:29.000000Z
+我也是! Their brown sugar boba looks amazing
+
+From: You
+Type: outgoing
+Sent: 2024-04-02T09:38:40.000000Z
+Oh yeah I saw pictures! Looks so good
+
+From: 李明
+Type: incoming
+Sent: 2024-04-02T09:44:34.000000Z
+Did you finish that book I lent you?
+
+From: You
+Type: outgoing
+Sent: 2024-04-20T12:33:00.000000Z
+Almost! 还有几章就看完了
+
+From: 李明
+Type: incoming
+Sent: 2024-04-20T12:35:19.000000Z
+你觉得怎么样? Is it interesting?
+
+From: You
+Type: outgoing
+Sent: 2024-04-20T12:45:10.000000Z
+Really good! The plot twists are amazing
+
+From: 李明
+Type: incoming
+Sent: 2024-04-20T12:54:58.000000Z
+对吧! Wait till you read the ending
+
+From: You
+Type: outgoing
+Sent: 2024-04-20T12:59:54.000000Z
+No spoilers! 别剧透啊
+
+From: 李明
+Type: incoming
+Sent: 2024-04-20T13:11:40.000000Z
+哈哈 don't worry, I won't
+
+From: You
+Type: outgoing
+Sent: 2024-04-20T13:31:34.000000Z
+How's your sister doing in college?
+
+From: 李明
+Type: incoming
+Sent: 2024-04-20T13:38:13.000000Z
+She's loving it! 适应得很好
+
+From: You
+Type: outgoing
+Sent: 2024-04-29T18:47:00.000000Z
+That's great to hear! What's her major again?
+
+From: 李明
+Type: incoming
+Sent: 2024-04-29T18:50:57.000000Z
+Computer Science 计算机科学
+
+From: You
+Type: outgoing
+Sent: 2024-04-29T18:51:57.000000Z
+Right! Smart choice 选得好
+
+From: 李明
+Type: incoming
+Sent: 2024-04-29T18:53:10.000000Z
+Yeah, she's really enjoying her classes
+
+From: You
+Type: outgoing
+Sent: 2024-04-29T19:08:02.000000Z
+Remember that cafe we went to last month?
+
+From: 李明
+Type: incoming
+Sent: 2024-04-29T19:11:12.000000Z
+The one with amazing 抹茶蛋糕?
+
+From: You
+Type: outgoing
+Sent: 2024-04-29T19:14:33.000000Z
+Yes! They're opening another location
+
+From: 李明
+Type: incoming
+Sent: 2024-04-29T19:17:45.000000Z
+真的吗? Where?
+
+From: You
+Type: outgoing
+Sent: 2024-05-11T13:33:00.000000Z
+Downtown near the park! Should open next month
+
+From: 李明
+Type: incoming
+Sent: 2024-05-11T13:54:07.000000Z
+太好了! We should go when it opens
+
+From: You
+Type: outgoing
+Sent: 2024-05-11T14:00:29.000000Z
+Definitely! Their coffee is so good
+
+From: 李明
+Type: incoming
+Sent: 2024-05-11T14:03:20.000000Z
+And those pastries! 好想吃
+
+From: You
+Type: outgoing
+Sent: 2024-05-11T14:04:47.000000Z
+Oh by the way, are you going to Sarah's party?
+
+From: 李明
+Type: incoming
+Sent: 2024-05-11T14:19:17.000000Z
+下周的派对? Yes, are you?
+
+From: You
+Type: outgoing
+Sent: 2024-05-11T14:26:13.000000Z
+Yeah! Should we bring something?
+
+From: 李明
+Type: incoming
+Sent: 2024-05-11T14:27:03.000000Z
+Maybe some snacks? 我可以做饺子
+
+From: You
+Type: outgoing
+Sent: 2024-05-14T19:59:00.000000Z
+Your dumplings are the best! 太好了
+
+From: 李明
+Type: incoming
+Sent: 2024-05-14T20:16:19.000000Z
+谢谢! I'll make extra this time
+
+From: You
+Type: outgoing
+Sent: 2024-05-14T20:18:02.000000Z
+Everyone will be so happy! Last time they disappeared so fast
+
+From: 李明
+Type: incoming
+Sent: 2024-05-14T20:22:57.000000Z
+哈哈 true! I'll make two kinds this time
+
+From: You
+Type: outgoing
+Sent: 2024-05-14T20:24:28.000000Z
+Need help preparing them?
+
+From: 李明
+Type: incoming
+Sent: 2024-05-14T20:29:00.000000Z
+That would be great! Come over Friday night?
+
+From: You
+Type: outgoing
+Sent: 2024-05-14T20:32:33.000000Z
+Sure! I'll bring some drinks 我带饮料
+
+From: 李明
+Type: incoming
+Sent: 2024-05-14T20:35:44.000000Z
+完美! It'll be fun
+
+From: You
+Type: outgoing
+Sent: 2024-06-28T00:57:00.000000Z
+Looking forward to it! 等不及了
+
+From: 李明
+Type: incoming
+Sent: 2024-06-28T01:00:58.000000Z
+Me too! Don't forget about Wednesday's hotpot
+
+From: You
+Type: outgoing
+Sent: 2024-06-28T01:13:53.000000Z
+Of course not! Can't wait 好期待
+
+From: 李明
+Type: incoming
+Sent: 2024-06-28T01:16:36.000000Z
+It's going to be delicious 一定很好吃
+
+From: You
+Type: outgoing
+Sent: 2024-06-28T01:34:21.000000Z
+Did you see the menu online?
+
+From: 李明
+Type: incoming
+Sent: 2024-06-28T01:50:31.000000Z
+Yes! So many options 选择好多
+
+From: You
+Type: outgoing
+Sent: 2024-06-28T01:51:26.000000Z
+What soup base do you prefer? 什么汤底？
+
+From: 李明
+Type: incoming
+Sent: 2024-06-28T01:55:29.000000Z
+Maybe half spicy half plain? 鸳鸯锅？
+
+From: You
+Type: outgoing
+Sent: 2024-07-17T18:50:00.000000Z
+Perfect! 就这么定了
+
+From: 李明
+Type: incoming
+Sent: 2024-07-17T19:46:40.000000Z
+Great! See you Wednesday then
+
+From: You
+Type: outgoing
+Sent: 2024-07-17T19:47:18.000000Z
+See you! 拜拜
+
+From: 李明
+Type: incoming
+Sent: 2024-07-17T20:07:07.000000Z
+拜拜! Have a good night
+

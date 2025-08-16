@@ -1,0 +1,247 @@
+Conversation: Rachel Stone (+9998887777)
+
+From: Rachel Stone
+Type: incoming
+Sent: 2023-05-17T19:14:04.475187Z
+Where are we with the Q3 deliverables? I needed them yesterday
+
+From: You
+Type: outgoing
+Sent: 2022-10-11T02:24:54.574601Z
+Hi Rachel, I'm working on finalizing them now. Should have them to you by EOD
+
+From: Rachel Stone
+Type: incoming
+Sent: 2025-07-26T16:12:19.336069Z
+EOD? That's not acceptable. I have a meeting with stakeholders in 2 hours
+
+From: You
+Type: outgoing
+Sent: 2022-03-19T09:44:15.127041Z
+I understand the urgency, but we discussed a Friday deadline last week
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-09-26T04:26:51.329811Z
+Plans change. I need them for this meeting
+
+From: You
+Type: outgoing
+Sent: 2022-09-21T23:29:26.240212Z
+I'll do my best to expedite, but rushing could impact quality
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-02-02T07:30:49.057670Z
+Just get it done. This is crucial
+
+From: You
+Type: outgoing
+Sent: 2025-07-23T01:05:12.365747Z
+I can send you the completed sections so far
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-12-01T05:13:29.071713Z
+Fine. Send what you have
+
+From: You
+Type: outgoing
+Sent: 2024-11-01T05:12:53.427053Z
+Sending first 3 sections now...
+
+From: Rachel Stone
+Type: incoming
+Sent: 2022-01-31T13:37:01.024378Z
+These numbers seem off. Did you double check everything?
+
+From: You
+Type: outgoing
+Sent: 2024-10-23T06:27:56.399557Z
+Yes, all figures have been verified with accounting
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-11-14T20:45:32.777962Z
+Well they don't match what I'm seeing. Fix it
+
+From: You
+Type: outgoing
+Sent: 2024-04-02T18:18:57.665932Z
+Could you point out which specific numbers you're concerned about?
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-02-06T13:33:10.571835Z
+I shouldn't have to do your job for you. Review everything again
+
+From: You
+Type: outgoing
+Sent: 2025-02-25T18:24:09.034425Z
+I'll review them again, but I'm confident in the current figures
+
+From: Rachel Stone
+Type: incoming
+Sent: 2022-07-30T03:06:43.440050Z
+Whatever. When will the rest be ready?
+
+From: You
+Type: outgoing
+Sent: 2023-07-26T02:32:24.932760Z
+I can have the next section in about an hour
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-08-29T00:50:23.898439Z
+An hour??? This is ridiculous
+
+From: You
+Type: outgoing
+Sent: 2022-12-18T01:17:18.362930Z
+I'm working as quickly as possible while maintaining accuracy
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-05-28T01:15:40.249815Z
+My 5-year-old could work faster than this
+
+From: You
+Type: outgoing
+Sent: 2022-09-29T23:36:40.084458Z
+I understand you're frustrated, but I want to ensure the deliverables are correct
+
+From: Rachel Stone
+Type: incoming
+Sent: 2023-07-20T09:00:55.991632Z
+Just sent you the stakeholder presentation deck. Need you to update all the charts ASAP
+
+From: You
+Type: outgoing
+Sent: 2023-12-12T21:35:42.041722Z
+I'll look at it as soon as I finish the current section
+
+From: Rachel Stone
+Type: incoming
+Sent: 2023-10-10T02:47:33.414070Z
+No. Drop everything and do this now
+
+From: You
+Type: outgoing
+Sent: 2023-11-14T04:33:09.156932Z
+Switching tasks now. How soon do you need the updated charts?
+
+From: Rachel Stone
+Type: incoming
+Sent: 2023-08-24T01:43:28.527013Z
+15 minutes ago would have been good
+
+From: You
+Type: outgoing
+Sent: 2023-03-10T23:56:13.251048Z
+That's not feasible. I can have them in 45 minutes
+
+From: Rachel Stone
+Type: incoming
+Sent: 2023-04-22T12:39:34.292955Z
+Unacceptable. Why didn't you anticipate this need?
+
+From: You
+Type: outgoing
+Sent: 2025-03-03T06:29:13.741799Z
+This is the first I'm hearing about the presentation deck
+
+From: Rachel Stone
+Type: incoming
+Sent: 2025-05-02T23:41:44.378136Z
+You should be more proactive. This is basic project management
+
+From: You
+Type: outgoing
+Sent: 2023-01-08T10:39:40.779609Z
+I'll start on the charts right away
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-12-11T05:51:18.559894Z
+Send me updates every 10 minutes
+
+From: You
+Type: outgoing
+Sent: 2023-04-25T11:52:22.819945Z
+First chart updated and sent
+
+From: Rachel Stone
+Type: incoming
+Sent: 2022-03-20T20:49:15.357733Z
+The colors are all wrong. Use the brand palette!
+
+From: You
+Type: outgoing
+Sent: 2024-08-25T08:57:13.378143Z
+I used the approved colors from the style guide
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-01-25T16:12:20.401273Z
+No, these aren't right. I want them exactly like last quarter's deck
+
+From: You
+Type: outgoing
+Sent: 2022-07-31T12:49:17.075725Z
+Could you send me last quarter's deck for reference?
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-04-23T13:39:42.397356Z
+You should already have it. This is so frustrating
+
+From: You
+Type: outgoing
+Sent: 2025-07-24T02:05:55.506175Z
+Found it. I'll adjust the colors accordingly
+
+From: Rachel Stone
+Type: incoming
+Sent: 2022-04-10T21:48:48.885253Z
+How much longer on those Q3 deliverables?
+
+From: You
+Type: outgoing
+Sent: 2023-06-10T22:47:31.065518Z
+Working on both simultaneously. About 30 minutes for both
+
+From: Rachel Stone
+Type: incoming
+Sent: 2024-11-01T21:33:07.521586Z
+I need them in 10
+
+From: You
+Type: outgoing
+Sent: 2023-07-11T10:42:22.151695Z
+That's not possible while maintaining accuracy and quality
+
+From: Rachel Stone
+Type: incoming
+Sent: 2025-07-12T17:22:32.050026Z
+Everything is always impossible with you
+
+From: You
+Type: outgoing
+Sent: 2024-11-16T23:03:22.997262Z
+I'm simply being realistic about the time needed to do this properly
+
+From: Rachel Stone
+Type: incoming
+Sent: 2023-04-19T02:24:58.544856Z
+Just get it done. And don't forget I need the monthly report tomorrow morning
+
+From: You
+Type: outgoing
+Sent: 2025-07-11T08:38:13.108396Z
+The monthly report wasn't scheduled until next week
+
+From: Rachel Stone
+Type: incoming
+Sent: 2025-07-04T06:12:39.104750Z
+Well now it's due tomorrow. Make it happen
+

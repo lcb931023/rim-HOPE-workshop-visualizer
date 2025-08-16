@@ -1,0 +1,372 @@
+Conversation: Alice Johnson (+1234567890)
+
+From: You
+Type: outgoing
+Sent: 2023-07-09T14:32:44.800897Z
+Hey Alice! You won't believe what just happened at work 😅
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-03-14T07:30:29.379245Z
+Omg what?? Tell me everything!
+
+From: You
+Type: outgoing
+Sent: 2023-09-29T16:10:54.679794Z
+Remember that presentation I was stressed about? My computer crashed right in the middle of it!
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-06-13T15:10:33.106265Z
+Nooo! What did you do??
+
+From: You
+Type: outgoing
+Sent: 2023-10-26T20:08:25.991037Z
+Had to wing it without the slides. But somehow everyone loved it more because it felt more natural 😂
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-04-08T13:47:08.020536Z
+That's actually amazing! You always land on your feet somehow
+
+From: You
+Type: outgoing
+Sent: 2024-10-05T08:46:23.799875Z
+Pure luck I swear
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-12-21T06:15:56.835471Z
+Hey, are you still up for movie night this weekend?
+
+From: You
+Type: outgoing
+Sent: 2022-11-16T16:01:23.147012Z
+Yes! Your place or mine?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-02-20T12:38:33.551758Z
+Mine! I just got those fancy new pillows I was telling you about
+
+From: You
+Type: outgoing
+Sent: 2022-08-18T01:23:26.368208Z
+Perfect! Want me to bring snacks?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-03-28T21:11:25.040099Z
+Yes please! You know I'm obsessed with those chips you brought last time
+
+From: You
+Type: outgoing
+Sent: 2024-09-23T13:34:01.261926Z
+The jalapeño ones?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-11-26T13:56:59.534065Z
+Yesss those!
+
+From: You
+Type: outgoing
+Sent: 2023-08-21T05:49:46.826277Z
+Got it covered 👍
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-04-27T05:35:51.214167Z
+You're the best! Oh btw, did you see Sarah's Instagram post?
+
+From: You
+Type: outgoing
+Sent: 2025-06-28T10:07:55.163236Z
+No, what happened?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-04-10T15:01:25.351423Z
+She got engaged!!
+
+From: You
+Type: outgoing
+Sent: 2023-03-12T01:32:25.058181Z
+WHAT? Finally! They've been together forever
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-02-23T10:18:14.105187Z
+I know right? The ring is gorgeous too
+
+From: You
+Type: outgoing
+Sent: 2023-12-11T11:34:35.246618Z
+Brb going to stalk her profile
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-08-24T07:10:21.070165Z
+😂😂😂
+
+From: You
+Type: outgoing
+Sent: 2023-01-10T04:54:07.956936Z
+Ok wow that ring is stunning
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-11-26T03:10:55.667568Z
+Told you! We should get them a card or something
+
+From: You
+Type: outgoing
+Sent: 2024-01-21T23:54:32.047750Z
+Good idea! We can pick one up this weekend
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-03-03T08:34:40.197167Z
+Perfect! Hey, have you started that new Netflix show I recommended?
+
+From: You
+Type: outgoing
+Sent: 2023-10-26T17:25:13.479990Z
+Not yet, but it's next on my list! Been so busy with work
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-10-24T22:13:21.193847Z
+You're going to love it. The plot twist in episode 3 is insane
+
+From: You
+Type: outgoing
+Sent: 2025-05-09T21:49:38.278142Z
+No spoilers!! 🙈
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-12-28T02:58:03.994743Z
+My lips are sealed 🤐
+
+From: You
+Type: outgoing
+Sent: 2023-07-26T07:14:14.934773Z
+Oh hey, meant to ask - how did your sister's interview go?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-05-12T03:04:54.734281Z
+She got the job!! Starting next month
+
+From: You
+Type: outgoing
+Sent: 2022-02-23T06:23:01.586059Z
+That's fantastic! We should celebrate
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-02-16T00:42:16.054375Z
+Yes! Maybe after movie night?
+
+From: You
+Type: outgoing
+Sent: 2023-01-26T02:14:55.399052Z
+Could do brunch on Sunday?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-08-28T17:39:11.688894Z
+Perfect! That new place downtown?
+
+From: You
+Type: outgoing
+Sent: 2025-06-07T13:28:55.242425Z
+I've heard good things about their pancakes
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-06-30T21:12:19.571091Z
+Sold! 11am work for you?
+
+From: You
+Type: outgoing
+Sent: 2023-07-20T11:33:39.365101Z
+Yep! I'll make a reservation
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-05-27T14:46:34.302821Z
+Thanks! You're so on top of things
+
+From: You
+Type: outgoing
+Sent: 2023-01-17T00:57:03.575857Z
+I try 😌
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-11-24T06:11:48.070557Z
+Oh no, I just remembered I need to take my car in tomorrow 😫
+
+From: You
+Type: outgoing
+Sent: 2023-06-07T16:21:17.302584Z
+Want me to drive you?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-01-22T11:22:06.029351Z
+Really? That would be amazing!
+
+From: You
+Type: outgoing
+Sent: 2024-02-02T20:02:05.250352Z
+Of course! What time?
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-05-05T10:13:26.932735Z
+Appointment's at 9am. Too early?
+
+From: You
+Type: outgoing
+Sent: 2022-06-10T06:32:34.118025Z
+Nah, I can do that. I'll grab coffee on the way
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-06-27T13:52:08.626895Z
+You're literally a lifesaver ❤️
+
+From: You
+Type: outgoing
+Sent: 2024-08-09T01:14:13.925994Z
+That's what friends are for!
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-05-02T09:08:57.540497Z
+Still can't believe about your presentation today though 😂
+
+From: You
+Type: outgoing
+Sent: 2022-04-20T08:50:00.907341Z
+Don't remind me, still having anxiety flashbacks
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-04-21T15:31:55.572476Z
+At least it's a funny story now!
+
+From: You
+Type: outgoing
+Sent: 2024-03-02T19:59:26.546562Z
+True. Better than the time I spilled coffee all over my keyboard
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-11-25T17:02:47.540213Z
+Omg I forgot about that! 😂
+
+From: You
+Type: outgoing
+Sent: 2023-01-22T02:23:12.604763Z
+Never living that one down
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-05-01T17:32:02.429811Z
+Hey, did you ever call about that gym membership?
+
+From: You
+Type: outgoing
+Sent: 2025-02-21T13:14:04.027351Z
+Yes! Starting next week. You should join too!
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-10-04T11:42:58.396145Z
+Tempting... What's the monthly rate?
+
+From: You
+Type: outgoing
+Sent: 2024-09-25T04:29:33.003027Z
+They have a special right now, $49/month with no signup fee
+
+From: Alice Johnson
+Type: incoming
+Sent: 2023-10-23T02:31:02.666504Z
+That's actually really good
+
+From: You
+Type: outgoing
+Sent: 2024-05-11T06:24:38.090970Z
+Right? And they have those yoga classes you like
+
+From: Alice Johnson
+Type: incoming
+Sent: 2025-02-16T05:19:00.355265Z
+Stop tempting me 😅
+
+From: You
+Type: outgoing
+Sent: 2022-08-16T18:38:17.431399Z
+Come onnn, we can be gym buddies!
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-04-15T23:00:52.014298Z
+Ugh fine, I'll check it out tomorrow
+
+From: You
+Type: outgoing
+Sent: 2025-04-19T07:29:12.174583Z
+Yes! Victory! 💪
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-05-11T07:12:43.391024Z
+You're such a bad influence 😂
+
+From: You
+Type: outgoing
+Sent: 2024-12-18T00:35:19.733548Z
+You mean BEST influence
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-12-20T23:53:10.656047Z
+Whatever helps you sleep at night 😜
+
+From: You
+Type: outgoing
+Sent: 2024-02-09T03:01:24.672189Z
+Speaking of sleep, I should probably head to bed
+
+From: Alice Johnson
+Type: incoming
+Sent: 2022-06-01T02:47:41.726318Z
+Same here, early day tomorrow
+
+From: You
+Type: outgoing
+Sent: 2025-08-04T10:29:17.533179Z
+See you at 9 for the car thing!
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-10-24T22:19:39.020683Z
+Yes! Thanks again ❤️
+
+From: You
+Type: outgoing
+Sent: 2022-11-15T07:18:43.127674Z
+Anytime! Night night 😴
+
+From: Alice Johnson
+Type: incoming
+Sent: 2024-10-17T15:00:28.819551Z
+Night! 💤
+

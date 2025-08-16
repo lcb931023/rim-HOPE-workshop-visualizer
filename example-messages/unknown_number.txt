@@ -1,0 +1,77 @@
+Conversation: Unknown Number (+0000000000)
+
+From: Unknown Number
+Type: incoming
+Sent: 2023-09-05T09:37:50.906881Z
+URGENT: Your account has been flagged for suspicious activity. Click here to verify: bit.ly/acc-verify
+
+From: You
+Type: outgoing
+Sent: 2024-08-26T14:23:33.803491Z
+Who is this?
+
+From: Unknown Number
+Type: incoming
+Sent: 2022-07-16T23:01:11.141993Z
+This is Account Security Services. We need to verify your identity immediately to prevent account suspension.
+
+From: You
+Type: outgoing
+Sent: 2024-10-02T08:26:58.568249Z
+What account are you talking about?
+
+From: Unknown Number
+Type: incoming
+Sent: 2022-04-28T21:27:10.748208Z
+Your bank account showing unusual transactions. Please confirm your details within 24 hours to avoid freezing: bit.ly/secure-bank
+
+From: You
+Type: outgoing
+Sent: 2024-11-30T01:22:37.308870Z
+This seems suspicious
+
+From: Unknown Number
+Type: incoming
+Sent: 2023-05-10T00:18:20.287011Z
+Congratulations! You've been selected for a special offer. You could win a new iPhone 14 Pro! Click here to claim: bit.ly/claim-prize
+
+From: You
+Type: outgoing
+Sent: 2023-05-25T08:34:35.903259Z
+Stop messaging me
+
+From: Unknown Number
+Type: incoming
+Sent: 2024-02-20T22:23:26.231491Z
+Don't miss out! Limited time offer - 90% discount on luxury watches. Exclusive deal just for you!
+
+From: Unknown Number
+Type: incoming
+Sent: 2023-12-26T15:37:13.429035Z
+Reply YES to claim your reward
+
+From: You
+Type: outgoing
+Sent: 2023-07-10T16:24:57.384229Z
+This is clearly a scam
+
+From: Unknown Number
+Type: incoming
+Sent: 2023-03-26T20:00:49.703553Z
+Final warning: Your payment is overdue. Resolve now to avoid legal action: bit.ly/pay-now
+
+From: You
+Type: outgoing
+Sent: 2025-01-11T14:49:40.011933Z
+I'm blocking this number
+
+From: Unknown Number
+Type: incoming
+Sent: 2022-02-17T08:13:20.720785Z
+Wait! You've qualified for a $500 Walmart gift card. Claim in next 30 minutes: bit.ly/gift-card
+
+From: Unknown Number
+Type: incoming
+Sent: 2024-01-11T18:07:35.046144Z
+This offer expires soon! Don't miss your chance to claim these amazing rewards!
+

@@ -1,0 +1,392 @@
+Conversation: Bob Smith (+0987654321)
+
+From: You
+Type: outgoing
+Sent: 2023-05-08T12:21:35.482975Z
+Morning Bob, hope you had a good weekend!
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-06-13T11:44:04.789274Z
+Hey! Yes, it was great thanks. Got some gardening done finally. How about yours?
+
+From: You
+Type: outgoing
+Sent: 2024-10-26T06:29:24.048261Z
+Pretty relaxing, thanks. Quick question - do you have the latest version of the Henderson proposal?
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-08-01T12:58:10.062592Z
+Yes, I do. Want me to send it over?
+
+From: You
+Type: outgoing
+Sent: 2024-03-23T00:00:38.200928Z
+That would be great, thanks!
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-08-15T08:04:01.627733Z
+Just emailed it to you. Let me know if you need anything else
+
+From: You
+Type: outgoing
+Sent: 2022-03-16T12:13:07.646613Z
+Got it, thanks Bob
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-05-13T13:50:15.236757Z
+By the way, are you joining the team meeting at 2pm?
+
+From: You
+Type: outgoing
+Sent: 2022-08-19T20:48:11.097216Z
+Yes, definitely. I've prepared those Q1 figures you asked for
+
+From: Bob Smith
+Type: incoming
+Sent: 2025-06-15T10:10:14.979443Z
+Perfect, that'll be really helpful
+
+From: You
+Type: outgoing
+Sent: 2024-03-28T17:45:55.647503Z
+Have you seen Sarah's email about the office renovation schedule?
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-06-29T22:25:16.122883Z
+Not yet, been in meetings all morning. Anything urgent?
+
+From: You
+Type: outgoing
+Sent: 2023-10-30T05:31:29.545060Z
+They're starting next week. We'll need to clear our desks by Friday
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-09-09T23:28:34.440388Z
+Oh wow, that's sooner than expected. Thanks for the heads up!
+
+From: You
+Type: outgoing
+Sent: 2022-08-30T02:14:55.604760Z
+No problem. They're providing temporary spaces on the 3rd floor
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-11-01T08:23:13.290278Z
+How long is it supposed to take?
+
+From: You
+Type: outgoing
+Sent: 2024-12-06T07:53:29.785243Z
+About 3 weeks according to the email
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-06-17T05:51:35.376944Z
+Not too bad then. At least we'll get some new furniture out of it
+
+From: You
+Type: outgoing
+Sent: 2024-03-12T02:03:13.016513Z
+True! The current chairs are getting pretty worn out
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-08-08T09:29:04.980319Z
+Hey, would you be able to review the client presentation I'm working on? Could use a second pair of eyes
+
+From: You
+Type: outgoing
+Sent: 2024-11-23T09:22:06.391716Z
+Sure, when do you need it by?
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-11-01T07:46:51.594620Z
+Tomorrow afternoon if possible. No rush though if you're too busy
+
+From: You
+Type: outgoing
+Sent: 2025-06-16T00:35:02.777220Z
+That works. Send it over whenever it's ready
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-07-30T20:41:10.371752Z
+Thanks, really appreciate it
+
+From: You
+Type: outgoing
+Sent: 2022-04-28T19:34:28.349417Z
+👍
+
+From: Bob Smith
+Type: incoming
+Sent: 2025-03-12T21:27:47.881483Z
+Are you heading to lunch soon?
+
+From: You
+Type: outgoing
+Sent: 2025-02-15T07:38:19.983850Z
+Yeah, in about 15 minutes. Want to join?
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-10-25T07:24:44.143997Z
+Would love to but I've got a client call at 12:30
+
+From: You
+Type: outgoing
+Sent: 2025-06-29T04:53:00.085996Z
+No worries, maybe tomorrow?
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-03-22T17:34:08.509128Z
+Definitely! Let's plan on it
+
+From: You
+Type: outgoing
+Sent: 2024-12-03T02:02:23.052583Z
+The meeting room for 2pm is double booked - should we move to Conference Room B?
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-11-22T01:28:07.709430Z
+Good catch. Yes, I'll send a quick update to everyone
+
+From: You
+Type: outgoing
+Sent: 2023-10-16T17:14:23.739689Z
+Thanks Bob
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-09-06T11:37:48.301724Z
+Just sent the presentation for review
+
+From: You
+Type: outgoing
+Sent: 2023-10-06T23:13:44.812199Z
+Got it, I'll take a look this afternoon
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-08-23T22:42:07.895834Z
+Great, main areas to focus on are slides 5-8
+
+From: You
+Type: outgoing
+Sent: 2023-08-12T18:15:12.009832Z
+Will do. Those are the market analysis sections, right?
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-10-20T06:02:55.949529Z
+Exactly. Want to make sure the data visualization is clear enough
+
+From: You
+Type: outgoing
+Sent: 2023-06-17T23:27:17.271581Z
+Makes sense. I'll pay special attention to those
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-06-29T02:19:48.775081Z
+Did you see the company-wide email about the new security protocols?
+
+From: You
+Type: outgoing
+Sent: 2025-02-15T01:36:09.349799Z
+Yes, looks like we all need to update our passwords by next week
+
+From: Bob Smith
+Type: incoming
+Sent: 2025-06-11T07:50:28.351561Z
+And set up that new 2FA system
+
+From: You
+Type: outgoing
+Sent: 2023-02-05T14:11:18.336205Z
+Right, I'll probably do that tomorrow morning
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-03-10T01:20:51.738530Z
+Good plan. IT said they're available for help if needed
+
+From: You
+Type: outgoing
+Sent: 2023-07-27T02:28:59.966689Z
+Bob, can you send me the contact details for the new vendor?
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-03-08T03:36:23.497268Z
+Sure, one sec
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-08-30T13:25:53.040301Z
+Just forwarded their info to you
+
+From: You
+Type: outgoing
+Sent: 2023-10-09T07:36:35.135108Z
+Perfect, thanks
+
+From: Bob Smith
+Type: incoming
+Sent: 2025-01-20T08:01:52.810699Z
+Heading into another meeting. Talk later!
+
+From: You
+Type: outgoing
+Sent: 2022-03-30T06:35:40.132517Z
+Sure thing
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-06-16T13:37:24.994081Z
+Meeting ran long. Still ok to review that presentation?
+
+From: You
+Type: outgoing
+Sent: 2024-01-02T05:07:32.993159Z
+Yes, almost done actually. Just a few minor suggestions
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-07-19T00:27:57.219923Z
+That was quick! Thanks
+
+From: You
+Type: outgoing
+Sent: 2024-02-07T07:20:40.122707Z
+I'll send my notes in about 30 mins
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-06-24T11:39:23.215034Z
+Perfect timing. I can incorporate changes before EOD
+
+From: You
+Type: outgoing
+Sent: 2022-01-11T11:16:55.750768Z
+Just sent my feedback via email
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-03-24T09:15:22.648753Z
+Got it, really helpful comments. Thanks!
+
+From: You
+Type: outgoing
+Sent: 2023-09-03T08:22:19.815371Z
+Happy to help. Good luck with the presentation
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-11-28T03:21:41.272724Z
+Thanks! Have a good evening
+
+From: You
+Type: outgoing
+Sent: 2024-07-22T00:54:21.322673Z
+You too Bob
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-03-15T04:24:46.206884Z
+Oh, before I forget - is it OK if I move our 10am tomorrow to 11?
+
+From: You
+Type: outgoing
+Sent: 2025-01-20T03:47:44.337105Z
+Sure, that works better for me actually
+
+From: Bob Smith
+Type: incoming
+Sent: 2025-08-10T02:47:05.855792Z
+Great, I'll update the calendar invite
+
+From: You
+Type: outgoing
+Sent: 2022-01-04T12:41:27.630751Z
+👍 See you tomorrow
+
+From: Bob Smith
+Type: incoming
+Sent: 2025-04-22T13:33:01.912231Z
+See you then!
+
+From: You
+Type: outgoing
+Sent: 2022-11-13T18:44:31.594344Z
+Could you forward me the meeting minutes from yesterday when you get a chance?
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-03-22T05:33:43.460329Z
+Already on it - should be in your inbox now
+
+From: You
+Type: outgoing
+Sent: 2023-08-08T18:30:33.342016Z
+Perfect timing as always. Thanks Bob
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-01-25T12:33:42.685427Z
+No problem at all
+
+From: You
+Type: outgoing
+Sent: 2025-01-11T07:49:30.022958Z
+Have a good evening!
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-06-12T13:36:41.382047Z
+You too! Don't work too late
+
+From: You
+Type: outgoing
+Sent: 2025-04-27T00:03:02.619201Z
+Heading out now actually
+
+From: Bob Smith
+Type: incoming
+Sent: 2023-08-20T23:38:07.675630Z
+Smart! See you tomorrow at 11
+
+From: You
+Type: outgoing
+Sent: 2024-06-20T04:43:18.667608Z
+👋
+
+From: Bob Smith
+Type: incoming
+Sent: 2022-12-05T11:39:14.874028Z
+Don't forget to bring your laptop for the demo
+
+From: You
+Type: outgoing
+Sent: 2023-09-21T07:00:20.715206Z
+Thanks for the reminder!
+
+From: Bob Smith
+Type: incoming
+Sent: 2024-09-09T14:21:55.496373Z
+No problem. Good night!
+
+From: You
+Type: outgoing
+Sent: 2022-03-03T16:32:44.443202Z
+Night Bob
+

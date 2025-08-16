@@ -1,0 +1,317 @@
+Conversation: Jake Phillips (+8889990000)
+
+From: You
+Type: outgoing
+Sent: 2022-01-07T16:43:50.928041Z
+Hey Jake, we still on for dinner tonight at 7?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2025-05-18T23:53:01.626736Z
+Oh man, I completely forgot I promised my sister I'd help her move some furniture tonight
+
+From: You
+Type: outgoing
+Sent: 2024-02-28T05:53:03.447078Z
+Seriously? This is the third time you've cancelled last minute
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-09-16T07:01:34.087892Z
+I know, I'm really sorry! Rain check?
+
+From: You
+Type: outgoing
+Sent: 2025-07-19T14:41:59.196725Z
+I guess
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-09-17T07:52:42.097708Z
+Next week for sure! Tuesday?
+
+From: You
+Type: outgoing
+Sent: 2025-04-09T04:31:34.734948Z
+Fine, Tuesday works. 7pm at that new Italian place
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-11-22T18:23:29.498831Z
+Perfect!
+
+From: You
+Type: outgoing
+Sent: 2025-05-14T13:11:26.824370Z
+You better not bail this time
+
+From: Jake Phillips
+Type: incoming
+Sent: 2023-05-09T15:07:09.565399Z
+I won't! Promise
+
+From: You
+Type: outgoing
+Sent: 2023-01-01T23:19:40.033590Z
+Hey, just confirming for tonight
+
+From: Jake Phillips
+Type: incoming
+Sent: 2023-07-10T02:13:48.245988Z
+About that... I'm actually feeling pretty sick today. Must've caught something
+
+From: You
+Type: outgoing
+Sent: 2025-02-10T21:18:24.702090Z
+Are you kidding me right now?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-10-11T06:40:26.508100Z
+I really am sick! Got a fever and everything
+
+From: You
+Type: outgoing
+Sent: 2023-05-12T05:47:15.112375Z
+Saw your Instagram story at the beach earlier 🤔
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-11-13T03:42:07.087347Z
+Oh that was from yesterday! Just posted it late
+
+From: You
+Type: outgoing
+Sent: 2024-02-28T09:19:06.586700Z
+Right...
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-09-11T20:34:34.971580Z
+Let's definitely do next week instead!
+
+From: You
+Type: outgoing
+Sent: 2025-02-16T01:17:33.642083Z
+Whatever
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-04-08T18:26:05.404879Z
+Don't be mad! I'll make it up to you
+
+From: You
+Type: outgoing
+Sent: 2022-11-18T00:56:12.140587Z
+Game night at my place this Saturday, bunch of people coming. You in?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-07-04T14:51:42.966720Z
+Definitely! Wouldn't miss it
+
+From: You
+Type: outgoing
+Sent: 2023-05-19T07:05:19.205284Z
+Starting at 8pm
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-07-10T09:35:28.756991Z
+Perfect, see you then!
+
+From: Jake Phillips
+Type: incoming
+Sent: 2025-03-25T01:36:37.812625Z
+Hey something came up with work, might be a little late
+
+From: You
+Type: outgoing
+Sent: 2023-10-23T22:46:39.327743Z
+How late?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-02-10T01:44:21.943471Z
+Like 9:30? Got stuck with a last-minute project
+
+From: You
+Type: outgoing
+Sent: 2022-04-07T22:45:34.508767Z
+We'll probably be halfway through by then
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-06-29T22:24:30.306730Z
+Actually maybe I should skip this one. Raincheck?
+
+From: You
+Type: outgoing
+Sent: 2023-12-11T00:46:11.187765Z
+Classic Jake
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-03-22T11:51:47.310422Z
+What's that supposed to mean?
+
+From: You
+Type: outgoing
+Sent: 2022-06-10T00:34:13.004852Z
+You always do this. Every single time
+
+From: Jake Phillips
+Type: incoming
+Sent: 2023-10-27T04:02:19.370536Z
+That's not fair! I've been really busy lately
+
+From: You
+Type: outgoing
+Sent: 2022-08-03T19:44:30.374401Z
+You've been 'really busy' for the past 6 months
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-07-19T01:42:14.409254Z
+Work has been crazy! And my family stuff...
+
+From: You
+Type: outgoing
+Sent: 2022-12-06T04:13:40.120803Z
+There's always an excuse
+
+From: Jake Phillips
+Type: incoming
+Sent: 2025-05-25T11:09:54.997393Z
+Let me make it up to you. Lunch tomorrow?
+
+From: You
+Type: outgoing
+Sent: 2024-02-29T09:18:54.170442Z
+I'm busy
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-12-29T14:54:20.811728Z
+Sunday?
+
+From: You
+Type: outgoing
+Sent: 2023-04-12T19:14:58.607678Z
+Also busy
+
+From: Jake Phillips
+Type: incoming
+Sent: 2023-07-12T09:54:45.425018Z
+Come on, don't be like that
+
+From: You
+Type: outgoing
+Sent: 2024-07-02T00:54:00.859450Z
+Like what? Unreliable?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-06-23T02:04:02.863814Z
+I said I was sorry!
+
+From: You
+Type: outgoing
+Sent: 2024-08-26T19:37:29.546662Z
+Sorry doesn't mean much when you keep doing it
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-04-20T07:27:58.742234Z
+I'll do better, I promise
+
+From: You
+Type: outgoing
+Sent: 2023-06-26T13:42:07.207924Z
+Heard that before
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-12-29T03:39:32.065104Z
+This time I mean it. Let me prove it
+
+From: You
+Type: outgoing
+Sent: 2022-10-02T06:51:23.586630Z
+Fine. One last chance. Friday, 7pm, that new burger place
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-11-20T04:52:45.823842Z
+Yes! I'll be there
+
+From: You
+Type: outgoing
+Sent: 2024-03-20T00:32:34.964289Z
+Don't make me regret this
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-10-13T06:28:12.253374Z
+You won't! Already put it in my calendar
+
+From: You
+Type: outgoing
+Sent: 2022-10-26T04:58:54.849787Z
+We'll see
+
+From: Jake Phillips
+Type: incoming
+Sent: 2025-02-10T00:07:12.706845Z
+Hey... my car's making weird noises
+
+From: You
+Type: outgoing
+Sent: 2025-04-28T17:54:07.037840Z
+Let me guess, you can't make it Friday?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-08-20T02:13:56.904392Z
+I should probably get it checked out...
+
+From: You
+Type: outgoing
+Sent: 2024-04-19T22:13:38.539530Z
+Unbelievable
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-11-25T06:12:52.853373Z
+I really want to come but I don't want to risk driving!
+
+From: You
+Type: outgoing
+Sent: 2024-01-05T12:43:12.345537Z
+There's this amazing invention called Uber
+
+From: Jake Phillips
+Type: incoming
+Sent: 2025-05-22T03:08:26.277363Z
+It's kind of expensive...
+
+From: You
+Type: outgoing
+Sent: 2023-07-24T08:41:38.895040Z
+Done with the excuses. Have a good life Jake
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-07-01T07:42:57.167861Z
+Wait! Don't be like that!
+
+From: Jake Phillips
+Type: incoming
+Sent: 2024-07-13T18:29:21.129945Z
+Hello?
+
+From: Jake Phillips
+Type: incoming
+Sent: 2022-11-01T06:42:46.514349Z
+I'm sorry!
+

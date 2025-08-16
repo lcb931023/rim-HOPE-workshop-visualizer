@@ -1,0 +1,182 @@
+Conversation: Derek Martinez (+3334445555)
+
+From: Derek Martinez
+Type: incoming
+Sent: 2024-10-07T19:04:51.094727Z
+Hey neighbor! Your dog was barking ALL morning again 😤
+
+From: You
+Type: outgoing
+Sent: 2024-12-23T12:01:44.258583Z
+Sorry Derek, I was at work. He usually calms down after a bit
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-12-19T07:14:54.511119Z
+Well it's becoming a real problem. I work from home and can't focus with all that noise
+
+From: You
+Type: outgoing
+Sent: 2024-11-06T02:40:53.151821Z
+I'll try to take him for longer walks before I leave
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-02-20T06:12:25.529500Z
+Also, did you know your gutters are overflowing? Water's splashing onto my side of the fence
+
+From: You
+Type: outgoing
+Sent: 2025-01-12T22:17:05.807611Z
+Thanks for letting me know. I'll get them cleaned soon
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-08-24T11:24:36.629872Z
+When exactly? Because my garden beds are getting flooded
+
+From: You
+Type: outgoing
+Sent: 2023-02-05T07:55:01.599214Z
+I'll call someone this week
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-09-12T01:04:41.937203Z
+You said that last month too...
+
+From: You
+Type: outgoing
+Sent: 2022-12-07T04:16:58.002261Z
+I've been busy, Derek
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-09-16T16:14:28.029355Z
+Oh btw your grass is getting pretty long. HOA might send you a notice soon 😉
+
+From: You
+Type: outgoing
+Sent: 2022-04-28T09:52:12.399283Z
+Thanks for your concern
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-06-21T07:09:13.045620Z
+Just trying to help! We all want to keep property values up in the neighborhood
+
+From: You
+Type: outgoing
+Sent: 2023-05-30T09:26:29.440840Z
+👍
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-02-09T21:09:57.847998Z
+And while we're chatting, could you ask your teenagers to stop skateboarding in the street? It's really loud
+
+From: You
+Type: outgoing
+Sent: 2024-04-13T06:35:51.838458Z
+Those aren't my kids. They're from two blocks over
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-11-23T07:58:42.904268Z
+Oh really? Could have sworn they were yours. My mistake!
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-11-17T23:10:33.212856Z
+But speaking of noise, your AC unit is making this weird rattling sound at night
+
+From: You
+Type: outgoing
+Sent: 2022-02-03T10:48:15.753551Z
+Derek, is there anything about my house that ISN'T bothering you?
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-10-31T07:54:14.816685Z
+Hey now, just trying to be a good neighbor! We should all look out for each other 😊
+
+From: You
+Type: outgoing
+Sent: 2022-12-07T04:35:57.382285Z
+Right...
+
+From: Derek Martinez
+Type: incoming
+Sent: 2025-01-10T01:27:06.026730Z
+Oh! Almost forgot - your holiday decorations from Christmas are still up. It's February...
+
+From: You
+Type: outgoing
+Sent: 2023-04-10T04:44:51.291383Z
+I like them
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-10-23T04:41:44.241726Z
+The HOA has rules about that you know
+
+From: You
+Type: outgoing
+Sent: 2023-07-01T14:20:31.686936Z
+I'm on the HOA board, Derek. I know the rules
+
+From: Derek Martinez
+Type: incoming
+Sent: 2023-07-10T19:21:47.995804Z
+Well then you should set a better example!
+
+From: You
+Type: outgoing
+Sent: 2022-07-18T22:26:31.596367Z
+I'll take them down when I'm ready
+
+From: Derek Martinez
+Type: incoming
+Sent: 2025-05-21T17:51:31.575291Z
+Also noticed you got a new car! The red paint is pretty bright...
+
+From: You
+Type: outgoing
+Sent: 2022-08-28T19:07:28.303620Z
+It's my car, Derek
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-11-10T15:27:38.626424Z
+Just saying it stands out a lot in the driveway
+
+From: You
+Type: outgoing
+Sent: 2023-07-25T03:06:49.225147Z
+That's kind of the point
+
+From: Derek Martinez
+Type: incoming
+Sent: 2024-05-04T20:00:13.944180Z
+Most people in our neighborhood go for more subtle colors
+
+From: You
+Type: outgoing
+Sent: 2023-04-10T08:09:26.479219Z
+Blocking your number now Derek
+
+From: Derek Martinez
+Type: incoming
+Sent: 2024-08-22T07:16:27.578111Z
+Wait! Your mailbox is slightly crooked too!
+
+From: You
+Type: outgoing
+Sent: 2024-10-18T14:45:32.670355Z
+Goodbye Derek
+
+From: Derek Martinez
+Type: incoming
+Sent: 2022-04-03T08:19:43.252868Z
+I'm just trying to help! 😢
+

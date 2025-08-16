@@ -1,0 +1,127 @@
+Conversation: Jennifer Kim (+7778889999)
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2022-03-03T10:17:17.817358Z
+Hi... I need to get my box of books from your place
+
+From: You
+Type: outgoing
+Sent: 2023-10-01T11:48:48.768376Z
+Oh. Right. When do you want to pick them up?
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2023-03-29T05:16:59.101717Z
+Is tomorrow afternoon ok?
+
+From: You
+Type: outgoing
+Sent: 2022-03-16T13:18:29.852549Z
+I'm working until 6
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2024-10-06T01:11:15.656518Z
+After 6 works too
+
+From: You
+Type: outgoing
+Sent: 2025-06-29T22:41:33.841654Z
+Fine. 6:30?
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2022-03-02T22:00:01.153863Z
+Ok. I'll be quick, won't take long
+
+From: You
+Type: outgoing
+Sent: 2023-03-12T13:36:37.577999Z
+Whatever works. I'll leave them by the door if you want
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2022-02-18T07:10:45.946886Z
+No, it's fine. I should go through them to make sure they're all there
+
+From: You
+Type: outgoing
+Sent: 2025-02-17T20:38:23.928020Z
+Are you suggesting I would keep your books?
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2022-02-20T01:16:56.473247Z
+That's not what I meant. I just want to check I'm not leaving anything important
+
+From: You
+Type: outgoing
+Sent: 2022-02-28T22:58:26.505877Z
+Fine. See you at 6:30 then
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2024-04-28T22:48:46.355410Z
+Thanks. And sorry about the card you sent. I should have responded
+
+From: You
+Type: outgoing
+Sent: 2022-05-22T19:20:37.086823Z
+Don't worry about it
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2022-09-30T20:48:05.224249Z
+I hope you're doing ok
+
+From: You
+Type: outgoing
+Sent: 2024-01-16T14:20:16.877977Z
+I'm fine. You?
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2023-04-08T07:12:25.429904Z
+Yeah, good. Started a new job actually
+
+From: You
+Type: outgoing
+Sent: 2023-04-03T07:37:48.129173Z
+That's nice
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2022-07-18T10:55:26.789644Z
+Look, I know this is awkward but I hope we can be civil
+
+From: You
+Type: outgoing
+Sent: 2024-01-07T16:45:11.764780Z
+We are being civil. I'm letting you get your books
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2025-06-01T08:48:50.576965Z
+Right. Of course. Sorry
+
+From: You
+Type: outgoing
+Sent: 2022-11-30T19:28:30.333221Z
+It's getting late. Are we set for 6:30 tomorrow or not?
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2023-09-20T19:09:55.034194Z
+Yes, 6:30. Thanks for doing this
+
+From: You
+Type: outgoing
+Sent: 2023-04-11T02:44:14.326963Z
+No problem
+
+From: Jennifer Kim
+Type: incoming
+Sent: 2023-10-22T19:36:11.186419Z
+See you tomorrow then
+

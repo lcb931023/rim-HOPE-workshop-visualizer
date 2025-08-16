@@ -1,0 +1,487 @@
+Conversation: Sarah Wilson (+5555551234)
+
+From: You
+Type: outgoing
+Sent: 2022-01-13T19:17:50.181196Z
+Hi Sarah! Just checking in - how are you doing?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-04-23T02:08:03.966489Z
+Hey! I'm good thanks, just got back from taking the kids to soccer practice
+
+From: You
+Type: outgoing
+Sent: 2024-09-02T06:43:35.177764Z
+How did they do? Is Tommy still loving being goalkeeper?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-08-18T18:25:48.043566Z
+He's amazing at it! Made some great saves today. Coach says he has real potential
+
+From: You
+Type: outgoing
+Sent: 2022-11-12T07:14:11.411697Z
+That's fantastic! We'll have to come watch a game soon
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-09-02T23:24:34.756483Z
+Would love that! Their next match is Saturday at 10am if you're free?
+
+From: You
+Type: outgoing
+Sent: 2024-03-10T08:55:05.249387Z
+Let me check with Mark... yes, we can make it! Want to do lunch after?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-08-07T23:46:24.843271Z
+Perfect! There's that new Italian place we could try
+
+From: You
+Type: outgoing
+Sent: 2023-02-10T21:15:05.667521Z
+Sounds great 😊
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-09-23T22:32:41.773122Z
+Oh by the way, did Mom tell you about the family reunion plans?
+
+From: You
+Type: outgoing
+Sent: 2022-08-24T07:01:38.889528Z
+No, what's happening?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-06-14T05:46:04.126724Z
+They want to do it at the lake house in August. Thinking the weekend of the 15th
+
+From: You
+Type: outgoing
+Sent: 2023-05-01T01:54:24.511734Z
+That would be amazing! It's been ages since we've all been there together
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-07-04T09:58:29.840817Z
+I know! Remember when we used to spend whole summers there as kids?
+
+From: You
+Type: outgoing
+Sent: 2024-03-13T21:28:54.809593Z
+The best times! Remember that year we built the giant sandcastle?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-12-26T19:18:52.929396Z
+And then the tide came in and destroyed it 😂
+
+From: You
+Type: outgoing
+Sent: 2024-05-19T11:37:04.449051Z
+We were so devastated! But then Dad bought us ice cream and everything was okay again
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-03-05T17:49:37.487332Z
+Those were such good days ❤️
+
+From: You
+Type: outgoing
+Sent: 2025-08-01T02:45:48.025319Z
+They really were. We should try to recreate that sandcastle this year
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-02-25T20:05:05.337703Z
+Yes! And this time we'll check the tide times first 😅
+
+From: You
+Type: outgoing
+Sent: 2024-02-09T06:52:58.879045Z
+Hey, have you started Christmas shopping yet?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-08-19T18:19:33.126054Z
+Don't even remind me! I have so much to do still
+
+From: You
+Type: outgoing
+Sent: 2022-03-22T04:25:35.734355Z
+Want to go shopping together next weekend? We could make a day of it
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-02-25T20:25:15.570872Z
+That would be perfect actually! I need someone to help me pick out something for Dad
+
+From: You
+Type: outgoing
+Sent: 2023-01-31T02:15:56.877316Z
+He's impossible to buy for! But I have some ideas
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-01-23T07:58:36.996084Z
+You're always so good at finding the perfect gifts
+
+From: You
+Type: outgoing
+Sent: 2024-06-13T04:24:29.977334Z
+Saturday work for you? We could grab breakfast first
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-10-24T11:20:31.055781Z
+Yes! Let's go to that cafe with the amazing pancakes
+
+From: You
+Type: outgoing
+Sent: 2022-03-23T22:56:30.460309Z
+The one on Oak Street? Love that place!
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-05-18T01:10:46.902201Z
+That's the one! Meet at 9?
+
+From: You
+Type: outgoing
+Sent: 2022-10-03T12:28:43.376598Z
+Perfect 👍
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-09-12T04:44:19.828938Z
+Oh! Did you see the photos from Emma's graduation?
+
+From: You
+Type: outgoing
+Sent: 2023-05-15T04:40:43.809101Z
+No! Where did she post them?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-07-30T01:06:38.243860Z
+I'll send them now... hang on
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-10-31T05:54:07.713124Z
+Can't believe she's finished college already! Time flies
+
+From: You
+Type: outgoing
+Sent: 2024-07-22T21:27:29.537434Z
+I know, seems like yesterday she was starting high school
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-01-20T13:25:31.812921Z
+Mom was crying all day at the ceremony
+
+From: You
+Type: outgoing
+Sent: 2022-06-04T09:37:50.250012Z
+Of course she was 😊 That's our mom!
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-08-06T04:06:50.714549Z
+By the way, are you still coming for dinner on Sunday?
+
+From: You
+Type: outgoing
+Sent: 2022-04-10T02:45:37.535205Z
+Wouldn't miss it! Want me to bring anything?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-01-25T00:00:15.360628Z
+Just yourself! Though if you wanted to make your famous apple pie...
+
+From: You
+Type: outgoing
+Sent: 2022-07-30T08:38:43.380741Z
+Say no more - pie duty accepted! 🥧
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-12-20T01:59:51.896380Z
+The kids will be so excited. They love your baking
+
+From: You
+Type: outgoing
+Sent: 2025-07-10T22:34:31.920684Z
+I'll make extra so they can take some home
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-06-03T15:16:30.802961Z
+You're the best ❤️
+
+From: You
+Type: outgoing
+Sent: 2025-02-26T10:39:14.253870Z
+Quick question - what time should we arrive on Sunday?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-09-09T01:23:15.820641Z
+Around 5? We'll eat at 6
+
+From: You
+Type: outgoing
+Sent: 2023-03-31T05:55:41.458886Z
+Perfect, see you then!
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-01-08T08:27:07.015821Z
+Hey, just heard about a great deal on those garden chairs you were looking for
+
+From: You
+Type: outgoing
+Sent: 2023-02-09T20:36:09.643396Z
+Really? Where?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-07-21T06:21:28.724770Z
+Home Depot has them on clearance. 40% off!
+
+From: You
+Type: outgoing
+Sent: 2022-07-02T10:56:55.007797Z
+No way! Thanks for letting me know. Going to check that out today
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-08-23T13:30:30.021250Z
+They had plenty in stock when I was there this morning
+
+From: You
+Type: outgoing
+Sent: 2024-05-20T02:31:05.339966Z
+You're a lifesaver! Been waiting for a good deal on those
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-03-31T11:46:40.149389Z
+Happy to help! Send me a pic if you get them
+
+From: You
+Type: outgoing
+Sent: 2022-08-10T00:02:57.179479Z
+Will do! 📸
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-10-01T08:23:09.463612Z
+How's the new job going?
+
+From: You
+Type: outgoing
+Sent: 2025-04-20T06:26:46.596225Z
+Really good actually! Everyone's so nice and I'm learning a lot
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-02-08T05:08:58.932850Z
+That's wonderful! I knew you'd do great
+
+From: You
+Type: outgoing
+Sent: 2023-04-25T17:43:18.318275Z
+Thanks sis ❤️ Means a lot
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-08-07T10:40:52.061268Z
+Always here for you! Speaking of which, want to do our weekly coffee date tomorrow?
+
+From: You
+Type: outgoing
+Sent: 2024-07-18T00:29:11.095712Z
+Yes please! Same time same place?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-09-08T15:40:36.008030Z
+You got it! Can't wait to catch up properly
+
+From: You
+Type: outgoing
+Sent: 2024-09-24T08:21:55.649628Z
+Me too! Been a crazy week
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-10-29T21:21:17.665526Z
+Tell me about it! Tommy has three projects due and Lucy's got dance recital practice
+
+From: You
+Type: outgoing
+Sent: 2024-10-05T16:09:22.845015Z
+How's she doing with the new routine?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-12-07T18:39:49.865457Z
+Getting there! She's so determined
+
+From: You
+Type: outgoing
+Sent: 2022-02-17T07:35:30.133307Z
+Just like her mom 😊
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-05-11T21:57:13.680874Z
+Haha true! Though I was never as graceful
+
+From: You
+Type: outgoing
+Sent: 2023-03-15T05:10:19.300965Z
+Remember your attempt at ballet?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-05-18T23:48:54.024491Z
+We don't talk about that 😂
+
+From: You
+Type: outgoing
+Sent: 2022-01-19T20:12:50.914932Z
+I still have the video somewhere...
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-01-31T08:35:44.370874Z
+Don't you dare show anyone!
+
+From: You
+Type: outgoing
+Sent: 2023-02-16T02:28:41.490787Z
+My lips are sealed 🤐
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-03-14T08:38:16.258129Z
+They better be! Or I'll bring up the haircut incident of '98
+
+From: You
+Type: outgoing
+Sent: 2023-10-01T11:35:43.585850Z
+Okay okay, truce! 😅
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-01-10T03:59:10.183546Z
+Thought that might work 😉
+
+From: You
+Type: outgoing
+Sent: 2024-08-19T20:37:31.087682Z
+Hey, did you get the email about Aunt Jenny's birthday party?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-02-05T23:05:30.805893Z
+Yes! Already got her gift sorted
+
+From: You
+Type: outgoing
+Sent: 2022-07-18T01:50:32.473953Z
+Show off! What did you get?
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-08-08T03:56:34.620349Z
+That cookbook she's been talking about and some fancy olive oils
+
+From: You
+Type: outgoing
+Sent: 2025-01-29T20:32:29.619090Z
+Perfect! She'll love that
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-11-09T15:02:46.534814Z
+Want to go in together on it?
+
+From: You
+Type: outgoing
+Sent: 2022-08-05T16:25:51.958140Z
+Yes please! Thank you 🙏
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-03-03T14:52:21.155679Z
+No problem! You can get the next one
+
+From: You
+Type: outgoing
+Sent: 2023-02-02T19:36:42.665449Z
+Deal! ❤️
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-01-27T20:19:44.302993Z
+Oh! Almost forgot - Mom asked if you still have her casserole dish
+
+From: You
+Type: outgoing
+Sent: 2025-02-24T13:12:27.973856Z
+Yes! Tell her I'll bring it on Sunday
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2024-10-07T22:09:32.748921Z
+Will do! She's made about 5 casseroles this week alone
+
+From: You
+Type: outgoing
+Sent: 2023-10-01T08:30:57.514841Z
+Classic Mom! Always feeding an army
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-08-06T10:28:56.545497Z
+Some things never change 😊
+
+From: You
+Type: outgoing
+Sent: 2023-05-21T02:27:55.285628Z
+And I hope they never do ❤️
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2025-02-09T15:24:55.719369Z
+Me too. Love you sis
+
+From: You
+Type: outgoing
+Sent: 2022-12-10T19:27:13.618725Z
+Love you too! See you tomorrow for coffee 😊
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2022-04-02T11:26:09.425175Z
+Can't wait! Sleep well x
+
+From: You
+Type: outgoing
+Sent: 2022-07-03T14:44:03.019993Z
+You too! Give the kids a hug from me
+
+From: Sarah Wilson
+Type: incoming
+Sent: 2023-12-19T20:16:34.321029Z
+Will do! Night night 😴
+

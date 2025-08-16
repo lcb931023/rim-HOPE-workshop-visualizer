@@ -1,0 +1,207 @@
+Conversation: Lisa Chen (+2223334444)
+
+From: Lisa Chen
+Type: incoming
+Sent: 2022-10-07T20:45:36.576321Z
+Hey, just wrapped up my presentation to the executive team. They loved my new market analysis framework 📊
+
+From: You
+Type: outgoing
+Sent: 2022-01-28T16:04:04.265385Z
+Oh nice! I actually presented to them last week. They seemed really excited about my Q4 projections
+
+From: Lisa Chen
+Type: incoming
+Sent: 2025-05-20T04:14:10.505492Z
+That's great! My presentation got extended by 30 mins because they had so many questions
+
+From: You
+Type: outgoing
+Sent: 2024-06-01T20:33:37.445579Z
+Did you see the company newsletter? They featured my recent project
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-05-09T11:13:53.820382Z
+Yeah I saw that! Congrats! I'm actually being interviewed for next month's cover story
+
+From: You
+Type: outgoing
+Sent: 2024-05-30T17:06:59.148457Z
+How's your team doing with the new targets?
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-04-27T22:52:48.818920Z
+We're already at 127% of quota. Yours?
+
+From: You
+Type: outgoing
+Sent: 2023-11-21T14:56:36.078502Z
+135% actually. The new strategy I implemented is really paying off
+
+From: Lisa Chen
+Type: incoming
+Sent: 2025-07-04T11:22:28.323358Z
+That's awesome! I just got approved for two more headcount for my team
+
+From: You
+Type: outgoing
+Sent: 2022-09-05T05:01:59.717213Z
+Nice! I'm actually mentoring three new managers now
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-11-21T16:35:14.780662Z
+Are you going to the leadership conference next month?
+
+From: You
+Type: outgoing
+Sent: 2025-08-11T15:14:37.361665Z
+Yes! I'm actually one of the keynote speakers
+
+From: Lisa Chen
+Type: incoming
+Sent: 2025-01-19T10:42:36.716299Z
+Oh cool! I'm running two breakout sessions and moderating the CEO panel
+
+From: You
+Type: outgoing
+Sent: 2022-12-07T12:18:24.293652Z
+Looking forward to seeing you there!
+
+From: Lisa Chen
+Type: incoming
+Sent: 2025-06-25T15:58:33.408617Z
+Same! By the way, did you hear about the innovation awards?
+
+From: You
+Type: outgoing
+Sent: 2023-01-11T21:25:43.792619Z
+Yes! My project made the shortlist. You?
+
+From: Lisa Chen
+Type: incoming
+Sent: 2022-09-10T15:26:57.057214Z
+Two of mine did actually! Plus I'm on the judging committee
+
+From: You
+Type: outgoing
+Sent: 2022-10-20T11:40:52.548802Z
+That's great! I've been too busy with my Harvard Business Review article to take on extra commitments
+
+From: Lisa Chen
+Type: incoming
+Sent: 2022-01-04T07:03:19.650430Z
+Oh wow, HBR? I just finished my TED talk prep
+
+From: You
+Type: outgoing
+Sent: 2022-10-27T12:04:16.728548Z
+Nice! Which venue?
+
+From: Lisa Chen
+Type: incoming
+Sent: 2023-08-30T16:12:50.894883Z
+Main stage in Vancouver! Still can't believe it
+
+From: You
+Type: outgoing
+Sent: 2022-06-03T05:04:03.392386Z
+That's fantastic! I did mine in New York last year. Such a great experience
+
+From: Lisa Chen
+Type: incoming
+Sent: 2023-10-23T07:15:25.523303Z
+Hey, want to grab coffee sometime this week? I'd love to hear more about your article
+
+From: You
+Type: outgoing
+Sent: 2025-06-10T19:17:03.951652Z
+Sure! Though my schedule is pretty packed with client meetings. Maybe next Thursday?
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-07-20T15:44:29.863081Z
+Thursday works! I have a gap between my strategy workshop and board meeting
+
+From: You
+Type: outgoing
+Sent: 2022-06-17T12:53:59.799112Z
+Perfect! 2pm at Blue Bottle?
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-02-06T15:15:05.884204Z
+Actually, could we do The Muse? Just got invited to their exclusive membership
+
+From: You
+Type: outgoing
+Sent: 2025-01-05T06:34:45.515952Z
+Even better! I'm a founding member there
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-06-14T13:19:06.949204Z
+Of course you are! 😄 See you then!
+
+From: You
+Type: outgoing
+Sent: 2024-12-13T12:31:18.426346Z
+Looking forward to it! Have to run to my investor meeting
+
+From: Lisa Chen
+Type: incoming
+Sent: 2024-04-02T06:44:37.238456Z
+No problem! I need to prep for my CNN interview anyway
+
+From: You
+Type: outgoing
+Sent: 2025-07-06T22:18:49.293164Z
+Oh nice! I just did CNBC last week
+
+From: Lisa Chen
+Type: incoming
+Sent: 2025-07-15T00:39:23.462276Z
+That's awesome! Did you see the viewing numbers?
+
+From: You
+Type: outgoing
+Sent: 2023-07-27T01:50:55.549978Z
+Record breaking apparently! 🎉
+
+From: Lisa Chen
+Type: incoming
+Sent: 2023-08-26T04:10:02.587467Z
+Incredible! We should collaborate on something sometime
+
+From: You
+Type: outgoing
+Sent: 2022-11-22T22:12:40.020122Z
+Definitely! Once I'm back from my speaking tour in Europe
+
+From: Lisa Chen
+Type: incoming
+Sent: 2022-12-22T13:43:49.429862Z
+Perfect timing - I'll be there for some board meetings anyway
+
+From: You
+Type: outgoing
+Sent: 2022-10-17T22:22:09.938403Z
+Great! Let's connect when we're both back
+
+From: Lisa Chen
+Type: incoming
+Sent: 2022-09-21T23:16:04.509082Z
+Sounds good! My EA will reach out to yours
+
+From: You
+Type: outgoing
+Sent: 2024-07-19T11:57:07.671823Z
+Perfect! Talk soon! 👋
+
+From: Lisa Chen
+Type: incoming
+Sent: 2025-03-05T10:36:33.559598Z
+Bye! Off to my yacht club meeting! 🛥️
+

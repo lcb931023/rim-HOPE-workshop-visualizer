@@ -1,0 +1,552 @@
+Conversation: Mom (+5551234567)
+
+From: Mom
+Type: incoming
+Sent: 2025-07-01T23:30:33.762721Z
+Hi sweetie, just checking in. Have you been eating enough vegetables?
+
+From: You
+Type: outgoing
+Sent: 2022-12-23T05:42:35.789544Z
+Yes mom, I had a salad for lunch today
+
+From: Mom
+Type: incoming
+Sent: 2023-02-06T08:26:18.430741Z
+That's good! Are you getting enough sleep? You seemed tired on our last call
+
+From: You
+Type: outgoing
+Sent: 2024-03-30T07:32:40.759097Z
+I'm fine, just busy with work
+
+From: Mom
+Type: incoming
+Sent: 2023-05-24T11:38:28.102581Z
+Remember to take breaks and drink water! 💕
+
+From: You
+Type: outgoing
+Sent: 2023-10-31T17:21:36.027234Z
+I know, I know 😊
+
+From: Mom
+Type: incoming
+Sent: 2022-09-03T01:33:27.490117Z
+Did you get your flu shot yet? The season is starting
+
+From: You
+Type: outgoing
+Sent: 2022-10-28T22:57:17.443840Z
+Getting it next week
+
+From: Mom
+Type: incoming
+Sent: 2024-07-25T17:10:20.282788Z
+Good! I saw on the news there's a storm coming your way. Do you have enough groceries?
+
+From: You
+Type: outgoing
+Sent: 2024-12-19T20:08:01.512517Z
+Yes, I stocked up yesterday
+
+From: Mom
+Type: incoming
+Sent: 2024-03-20T15:18:14.686250Z
+Make sure your flashlights have batteries!
+
+From: You
+Type: outgoing
+Sent: 2022-07-09T11:05:02.694677Z
+Already checked, we're all set
+
+From: Mom
+Type: incoming
+Sent: 2022-12-28T13:45:57.678879Z
+How's your throat? You mentioned it was sore last week
+
+From: You
+Type: outgoing
+Sent: 2023-09-20T00:13:50.076425Z
+Much better now, the medicine helped
+
+From: Mom
+Type: incoming
+Sent: 2023-07-03T11:22:34.349539Z
+Have you been taking your vitamins?
+
+From: You
+Type: outgoing
+Sent: 2023-10-19T15:06:21.931354Z
+Yes mom, every morning
+
+From: Mom
+Type: incoming
+Sent: 2023-03-02T14:23:43.744051Z
+I'm sending you some more of those immune support supplements you like
+
+From: You
+Type: outgoing
+Sent: 2025-06-25T02:49:37.526492Z
+You don't have to do that
+
+From: Mom
+Type: incoming
+Sent: 2024-09-15T00:03:14.777009Z
+I want to! A mother needs to take care of her baby
+
+From: You
+Type: outgoing
+Sent: 2023-09-25T02:49:48.736476Z
+Mom, I'm 28 😅
+
+From: Mom
+Type: incoming
+Sent: 2024-09-19T10:36:14.461352Z
+Still my baby! Are you wearing warm enough clothes? It's getting cold
+
+From: You
+Type: outgoing
+Sent: 2022-01-09T03:00:54.250206Z
+Yes, I got my winter coat out
+
+From: Mom
+Type: incoming
+Sent: 2025-07-02T21:43:42.425529Z
+Good! Don't forget your scarf and gloves too
+
+From: You
+Type: outgoing
+Sent: 2025-04-26T08:33:54.214814Z
+I won't forget
+
+From: Mom
+Type: incoming
+Sent: 2022-05-30T14:07:18.048205Z
+Have you been exercising? It's important to stay active
+
+From: You
+Type: outgoing
+Sent: 2022-05-30T16:54:09.449415Z
+Went to the gym yesterday actually
+
+From: Mom
+Type: incoming
+Sent: 2023-11-07T00:57:39.713472Z
+That's wonderful! But don't overdo it
+
+From: You
+Type: outgoing
+Sent: 2023-10-06T07:25:36.032957Z
+I'm being careful
+
+From: Mom
+Type: incoming
+Sent: 2023-01-09T00:42:20.056588Z
+Are you still having those headaches?
+
+From: You
+Type: outgoing
+Sent: 2024-08-03T23:37:03.901024Z
+They're much better now that I got new glasses
+
+From: Mom
+Type: incoming
+Sent: 2024-02-23T09:51:26.802311Z
+Remember to take screen breaks when you're working!
+
+From: You
+Type: outgoing
+Sent: 2023-02-04T22:13:07.388900Z
+I use that 20-20-20 rule you told me about
+
+From: Mom
+Type: incoming
+Sent: 2024-02-06T22:59:36.562289Z
+That makes me happy to hear! How's your apartment? Any maintenance issues?
+
+From: You
+Type: outgoing
+Sent: 2025-05-17T10:27:01.286277Z
+All good here, they fixed the heating last week
+
+From: Mom
+Type: incoming
+Sent: 2024-04-24T00:55:47.695445Z
+Make sure they check the carbon monoxide detector too
+
+From: You
+Type: outgoing
+Sent: 2024-09-15T04:18:58.525981Z
+It's working fine, I check it monthly
+
+From: Mom
+Type: incoming
+Sent: 2025-03-17T11:47:47.661979Z
+You're such a responsible adult. I'm proud of you ❤️
+
+From: You
+Type: outgoing
+Sent: 2023-10-22T15:44:17.725110Z
+Thanks mom 😊
+
+From: Mom
+Type: incoming
+Sent: 2022-10-31T01:15:52.758414Z
+Are you eating breakfast every day?
+
+From: You
+Type: outgoing
+Sent: 2024-07-21T06:26:31.287778Z
+Yes, usually oatmeal or eggs
+
+From: Mom
+Type: incoming
+Sent: 2022-05-19T07:10:33.079562Z
+Good! Want me to send you my healthy muffin recipe?
+
+From: You
+Type: outgoing
+Sent: 2023-07-01T10:01:11.133084Z
+Sure, that would be nice
+
+From: Mom
+Type: incoming
+Sent: 2023-04-15T20:23:26.726694Z
+I'll email it to you. Are you drinking enough water?
+
+From: You
+Type: outgoing
+Sent: 2022-11-05T19:19:23.620230Z
+Got my water bottle right here
+
+From: Mom
+Type: incoming
+Sent: 2023-08-30T13:19:35.649046Z
+Is it that filtered one I got you?
+
+From: You
+Type: outgoing
+Sent: 2023-10-05T21:32:14.521415Z
+Yep, use it every day
+
+From: Mom
+Type: incoming
+Sent: 2022-11-04T22:02:00.777943Z
+Have you been feeling anxious lately? You can always talk to me
+
+From: You
+Type: outgoing
+Sent: 2023-03-14T17:38:56.459608Z
+I'm doing okay, just normal work stress
+
+From: Mom
+Type: incoming
+Sent: 2024-02-09T19:01:13.465083Z
+Remember to take deep breaths when you feel overwhelmed
+
+From: You
+Type: outgoing
+Sent: 2022-12-29T18:32:09.345338Z
+I do, it helps
+
+From: Mom
+Type: incoming
+Sent: 2024-03-01T16:40:30.247833Z
+Are you still doing that meditation app?
+
+From: You
+Type: outgoing
+Sent: 2025-01-29T05:51:49.434540Z
+Every morning for 10 minutes
+
+From: Mom
+Type: incoming
+Sent: 2023-07-09T12:39:17.409197Z
+That's wonderful! How about your friend Sarah? Haven't heard you mention her lately
+
+From: You
+Type: outgoing
+Sent: 2025-02-08T16:03:11.049388Z
+We're getting lunch this weekend
+
+From: Mom
+Type: incoming
+Sent: 2022-07-07T11:14:27.893807Z
+Oh good! It's important to maintain friendships
+
+From: You
+Type: outgoing
+Sent: 2023-03-26T22:49:38.231108Z
+I know mom
+
+From: Mom
+Type: incoming
+Sent: 2024-07-22T04:19:13.079089Z
+Is your car due for an oil change soon?
+
+From: You
+Type: outgoing
+Sent: 2023-06-12T08:18:48.873192Z
+Getting it done next Tuesday
+
+From: Mom
+Type: incoming
+Sent: 2022-05-24T18:21:46.096915Z
+Don't forget to check the tire pressure too!
+
+From: You
+Type: outgoing
+Sent: 2023-01-06T07:30:08.923792Z
+Already on my list
+
+From: Mom
+Type: incoming
+Sent: 2022-05-28T00:18:25.141391Z
+Such a responsible driver. Are you using that sunscreen I sent?
+
+From: You
+Type: outgoing
+Sent: 2024-03-31T12:46:40.666801Z
+Yes, every morning
+
+From: Mom
+Type: incoming
+Sent: 2024-04-13T05:48:53.750630Z
+Even when it's cloudy?
+
+From: You
+Type: outgoing
+Sent: 2024-02-28T03:14:47.000033Z
+Yes, even when it's cloudy 😊
+
+From: Mom
+Type: incoming
+Sent: 2023-11-10T17:23:28.475156Z
+That's my girl! Have you scheduled your dental cleaning?
+
+From: You
+Type: outgoing
+Sent: 2022-06-11T05:42:52.098580Z
+Going next month
+
+From: Mom
+Type: incoming
+Sent: 2023-03-11T19:51:35.001657Z
+Don't forget to floss!
+
+From: You
+Type: outgoing
+Sent: 2022-03-02T13:22:48.770016Z
+I never do
+
+From: Mom
+Type: incoming
+Sent: 2022-05-18T16:11:29.516782Z
+Are you still taking the stairs instead of the elevator?
+
+From: You
+Type: outgoing
+Sent: 2022-07-06T12:05:00.742370Z
+Most days, unless I'm carrying groceries
+
+From: Mom
+Type: incoming
+Sent: 2024-10-29T05:56:18.335526Z
+Good for your heart! Speaking of which, are you eating less salt?
+
+From: You
+Type: outgoing
+Sent: 2022-03-20T19:30:39.117572Z
+Trying my best
+
+From: Mom
+Type: incoming
+Sent: 2024-05-27T04:34:52.007613Z
+I found some great low-sodium recipes I'll send you
+
+From: You
+Type: outgoing
+Sent: 2024-12-05T07:44:36.816106Z
+Thanks mom
+
+From: Mom
+Type: incoming
+Sent: 2023-07-22T00:28:05.049016Z
+How's your back? Still doing those stretches?
+
+From: You
+Type: outgoing
+Sent: 2024-07-19T23:18:10.214487Z
+Every morning and night
+
+From: Mom
+Type: incoming
+Sent: 2022-04-25T23:24:22.684465Z
+Proud of you for taking care of yourself ❤️
+
+From: You
+Type: outgoing
+Sent: 2024-10-15T12:54:51.126039Z
+Learned from the best 😊
+
+From: Mom
+Type: incoming
+Sent: 2024-04-02T10:51:23.688054Z
+Are you keeping your emergency kit updated?
+
+From: You
+Type: outgoing
+Sent: 2022-01-22T21:22:53.205485Z
+Yes, checked it last month
+
+From: Mom
+Type: incoming
+Sent: 2023-05-15T00:41:45.317506Z
+Don't forget to replace the batteries and check expiration dates!
+
+From: You
+Type: outgoing
+Sent: 2022-09-19T03:35:14.574921Z
+Already done
+
+From: Mom
+Type: incoming
+Sent: 2022-04-08T20:15:00.384327Z
+That's my organized girl! How's your plant doing?
+
+From: You
+Type: outgoing
+Sent: 2025-08-03T08:36:45.573231Z
+Growing well, got new leaves
+
+From: Mom
+Type: incoming
+Sent: 2024-01-15T19:07:34.647787Z
+Remember what I said about not overwatering
+
+From: You
+Type: outgoing
+Sent: 2023-02-04T08:56:08.862361Z
+I check the soil first
+
+From: Mom
+Type: incoming
+Sent: 2023-03-21T18:12:07.597522Z
+You're getting so good at plant care! Are you still using that air purifier?
+
+From: You
+Type: outgoing
+Sent: 2024-12-23T05:14:53.073416Z
+Yes, changed the filter recently
+
+From: Mom
+Type: incoming
+Sent: 2024-08-19T02:12:28.858077Z
+Perfect! How about your allergies?
+
+From: You
+Type: outgoing
+Sent: 2025-06-04T16:55:50.298158Z
+Much better with the purifier
+
+From: Mom
+Type: incoming
+Sent: 2025-08-09T18:26:37.674337Z
+I'm so glad! Don't forget to take your allergy meds when needed
+
+From: You
+Type: outgoing
+Sent: 2025-05-16T07:21:24.389991Z
+I keep them handy
+
+From: Mom
+Type: incoming
+Sent: 2024-07-25T01:31:53.957979Z
+Have you been reading before bed instead of looking at your phone?
+
+From: You
+Type: outgoing
+Sent: 2025-07-15T11:41:45.186757Z
+Most nights, yes
+
+From: Mom
+Type: incoming
+Sent: 2023-05-20T08:25:47.446538Z
+That's better for your sleep! Speaking of which, is your bedroom dark enough?
+
+From: You
+Type: outgoing
+Sent: 2023-10-30T04:50:37.292965Z
+Got blackout curtains last month
+
+From: Mom
+Type: incoming
+Sent: 2024-03-28T18:32:05.872072Z
+Oh good! And you're still using your white noise machine?
+
+From: You
+Type: outgoing
+Sent: 2025-06-13T04:02:32.819250Z
+Every night
+
+From: Mom
+Type: incoming
+Sent: 2025-03-03T19:12:03.155230Z
+Such good sleep habits! Are you still meal prepping on Sundays?
+
+From: You
+Type: outgoing
+Sent: 2023-12-30T15:00:26.155236Z
+Yes, helps a lot during the week
+
+From: Mom
+Type: incoming
+Sent: 2022-06-03T01:27:09.508086Z
+Want some new recipes? I found some healthy ones
+
+From: You
+Type: outgoing
+Sent: 2024-10-24T09:03:58.742696Z
+Sure, always good to try new things
+
+From: Mom
+Type: incoming
+Sent: 2023-02-16T07:22:24.623910Z
+I'll send them tonight. Love you sweetie! Take care of yourself ❤️
+
+From: You
+Type: outgoing
+Sent: 2024-12-01T05:35:16.193388Z
+Love you too mom 😊
+
+From: Mom
+Type: incoming
+Sent: 2022-10-10T10:31:47.752414Z
+Don't forget to call this weekend!
+
+From: You
+Type: outgoing
+Sent: 2022-12-29T04:09:18.261164Z
+I won't forget
+
+From: Mom
+Type: incoming
+Sent: 2025-06-29T04:55:18.359171Z
+And wear your helmet when you bike!
+
+From: You
+Type: outgoing
+Sent: 2024-11-02T02:36:25.849287Z
+Always do 👍
+
+From: Mom
+Type: incoming
+Sent: 2025-07-08T08:49:10.332035Z
+That's all for now. Stay safe! 💕
+
+From: You
+Type: outgoing
+Sent: 2025-06-19T07:22:02.523917Z
+Thanks mom, you too! 😊
+

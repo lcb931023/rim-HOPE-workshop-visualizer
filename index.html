@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signal Messages Visualization</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.4.20/dist/full.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-cloud/1.2.7/d3.layout.cloud.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌊 Signal Messages Visualization</h1>
+            <p>Interactive visualization of message volume over time by contact</p>
+        </div>
+        
+        <div class="file-upload-section">
+            <h3>📁 Load Your Signal Message Files</h3>
+            <p>Select .txt files from your Signal message export. Each file should represent one contact's conversation history.</p>
+            
+            <div class="file-input-container">
+                <input type="file" class="file-input" id="fileInput" multiple accept=".txt">
+                <div class="file-input-button">
+                    <div style="font-size: 48px; margin-bottom: 16px;">📄</div>
+                    <div style="font-size: 16px; font-weight: bold;">Select Message Files</div>
+                    <div style="font-size: 12px; margin-top: 8px; opacity: 0.8;">Choose individual .txt message files</div>
+                </div>
+            </div>
+            
+            <div class="file-status" id="fileStatus">
+                <div>No files loaded yet. Please select your Signal message files.</div>
+            </div>
+        </div>
+        
+        <div class="controls-section" id="controlsSection">
+            <h3 class="controls-header" onclick="controlsManager.toggleControls()">
+                🎛️ Visualization Controls 
+                <span class="collapse-icon" id="collapseIcon">▼</span>
+            </h3>
+            <div class="controls-content" id="controlsContent">
+                <div class="controls-grid">
+                <div class="card bg-base-100 shadow-xl">
+                    <div class="card-body">
+                        <h2 class="card-title text-lg">📅 Time Intervals</h2>
+                        <p class="text-sm opacity-70 mb-4">Configure how messages are grouped over time. Smaller intervals show more detail.</p>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Interval</span>
+                                <span class="label-text-alt">days</span>
+                            </label>
+                            <input type="number" id="timeInterval" value="7" min="1" step="1" class="input input-bordered input-sm w-full" />
+                        </div>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Date Range</span>
+                            </label>
+                            <div class="join w-full">
+                                <button class="btn btn-sm join-item flex-1" onclick="controlsManager.setDateRange(30)">1M</button>
+                                <button class="btn btn-sm join-item flex-1" onclick="controlsManager.setDateRange(90)">3M</button>
+                                <button class="btn btn-sm join-item btn-active flex-1" onclick="controlsManager.setDateRange(180)">6M</button>
+                                <button class="btn btn-sm join-item flex-1" onclick="controlsManager.setDateRange(365)">1Y</button>
+                                <button class="btn btn-sm join-item flex-1" onclick="controlsManager.setDateRange(730)">2Y</button>
+                                <button class="btn btn-sm join-item flex-1" onclick="controlsManager.setDateRange(-1)">All</button>
+                            </div>
+                        </div>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Custom Range</span>
+                            </label>
+                            <div class="flex gap-2 items-center">
+                                <input type="date" id="startDate" class="input input-bordered input-sm flex-1" onchange="controlsManager.handleCustomDateChange()">
+                                <span class="text-xs">to</span>
+                                <input type="date" id="endDate" class="input input-bordered input-sm flex-1" onchange="controlsManager.handleCustomDateChange()">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card bg-base-100 shadow-xl">
+                    <div class="card-body">
+                        <h2 class="card-title text-lg">📝 Word Cloud Analysis</h2>
+                        <p class="text-sm opacity-70 mb-4">Configure text analysis and word cloud visualization parameters.</p>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Max Words</span>
+                                <span class="label-text-alt">words</span>
+                            </label>
+                            <input type="number" id="maxWords" value="100" min="10" max="500" step="10" class="input input-bordered input-sm w-full" />
+                        </div>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Min Length</span>
+                                <span class="label-text-alt">chars</span>
+                            </label>
+                            <input type="number" id="minWordLength" value="3" min="2" max="10" step="1" class="input input-bordered input-sm w-full" />
+                        </div>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Contact Filter</span>
+                            </label>
+                            <select id="contactFilter" class="select select-bordered select-sm w-full">
+                                <option value="all">All Contacts</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-control w-full">
+                            <label class="label">
+                                <span class="label-text font-medium">Message Source</span>
+                            </label>
+                            <select id="messageSource" class="select select-bordered select-sm w-full">
+                                <option value="all">All Messages</option>
+                                <option value="sent">Only Sent</option>
+                                <option value="received">Only Received</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="card bg-base-100 shadow-xl">
+                    <div class="card-body">
+                        <h2 class="card-title text-lg">🎯 Current View</h2>
+                        <p class="text-sm opacity-70 mb-4">Real-time summary of your current visualization settings and data coverage.</p>
+                        
+                        <!-- Streamgraph Stats -->
+                        <div class="grid grid-cols-3 gap-2 mb-3">
+                            <div class="stat bg-base-200 rounded-lg p-2 text-center">
+                                <div class="text-xs opacity-70">Time Buckets</div>
+                                <div class="text-sm font-bold text-primary" id="currentTimeBuckets">~26 periods</div>
+                            </div>
+                            <div class="stat bg-base-200 rounded-lg p-2 text-center">
+                                <div class="text-xs opacity-70">Total Messages</div>
+                                <div class="text-sm font-bold text-secondary" id="totalMessages">0</div>
+                            </div>
+                            <div class="stat bg-base-200 rounded-lg p-2 text-center">
+                                <div class="text-xs opacity-70">Date Coverage</div>
+                                <div class="text-xs font-bold text-accent" id="dateCoverage">No data</div>
+                            </div>
+                        </div>
+                        
+                        <!-- Word Cloud Stats -->
+                        <div class="grid grid-cols-3 gap-2">
+                            <div class="stat bg-base-200 rounded-lg p-2 text-center">
+                                <div class="text-xs opacity-70">Total Words</div>
+                                <div class="text-sm font-bold text-success" id="totalWords">0</div>
+                            </div>
+                            <div class="stat bg-base-200 rounded-lg p-2 text-center">
+                                <div class="text-xs opacity-70">Unique Words</div>
+                                <div class="text-sm font-bold text-info" id="uniqueWords">0</div>
+                            </div>
+                            <div class="stat bg-base-200 rounded-lg p-2 text-center">
+                                <div class="text-xs opacity-70">Messages Analyzed</div>
+                                <div class="text-sm font-bold text-warning" id="analyzedMessages">0</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        
+        <div class="visualizations-container" id="visualizationsContainer">
+            <div class="streamgraph-section">
+                <!-- Tab Navigation -->
+                <div class="tabs tabs-boxed mb-4">
+                    <a class="tab tab-active" id="messagesTab" onclick="controlsManager.switchTab('messages')">📊 Message Volume</a>
+                    <a class="tab" id="languageTab" onclick="controlsManager.switchTab('language')">🗣️ Language Analysis</a>
+                </div>
+                
+                <!-- Messages Tab Content -->
+                <div id="messagesTabContent" class="tab-content active">
+                    <div class="chart-container" id="chartContainer">
+                        <div class="loading" id="loadingIndicator">Processing messages...</div>
+                        <div id="chart"></div>
+                        <div class="crosshair-line crosshair-vertical" id="crosshairVertical" style="display: none;"></div>
+                        <div class="time-highlight" id="timeHighlight"></div>
+                    </div>
+                    <div class="legend hide" id="legend"></div>
+                </div>
+                
+                <!-- Language Analysis Tab Content -->
+                <div id="languageTabContent" class="tab-content">
+                    <div class="chart-container" id="languageChartContainer">
+                        <div class="loading" id="languageLoadingIndicator" style="display: none;">Analyzing language patterns...</div>
+                        <div id="languageChart"></div>
+                        <div class="crosshair-line crosshair-vertical" id="languageCrosshairVertical" style="display: none;"></div>
+                        <div class="time-highlight" id="languageTimeHighlight"></div>
+                    </div>
+                    <div class="legend hide" id="languageLegend"></div>
+                </div>
+            </div>
+            
+            <div class="word-cloud-section" id="wordCloudSection">
+                <div class="flex justify-between items-center px-6 pt-6">
+                    <h3 class="text-lg font-semibold text-green-800 m-0">☁️ Word Analysis</h3>
+                    <div class="join">
+                        <button class="btn btn-sm join-item btn-active" id="cloudViewBtn" onclick="wordAnalysisView.switchView('cloud', appState.wordCloudData, controlsManager.handleWordHover, controlsManager.handleWordLeave)">
+                            ☁️ Cloud
+                        </button>
+                        <button class="btn btn-sm join-item" id="listViewBtn" onclick="wordAnalysisView.switchView('list', appState.wordCloudData, controlsManager.handleWordHover, controlsManager.handleWordLeave)">
+                            📊 List
+                        </button>
+                    </div>
+                </div>
+                <div class="word-cloud-filter-display" id="wordCloudFilterDisplay"></div>
+                <div class="word-cloud-container" id="wordCloudContainer">
+                    <div class="loading" id="wordCloudLoading" style="display: none;">Generating word cloud...</div>
+                    <div id="wordCloud"></div>
+                    <div id="wordList" style="display: none;"></div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="tooltip" id="tooltip"></div>
+
+    <!-- Load modular JavaScript files in dependency order -->
+    <script src="src/AppState.js"></script>
+    <script src="src/DataProcessor.js"></script>
+    <script src="src/StreamgraphView.js"></script>
+    <script src="src/WordAnalysisView.js"></script>
+    <script src="src/LanguageAnalyzer.js"></script>
+    <script src="src/ControlsManager.js"></script>
+    <script src="src/main.js"></script>
+</body>
+</html>
